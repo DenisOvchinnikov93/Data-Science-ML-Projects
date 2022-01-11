@@ -1,0 +1,7 @@
+#Ignore .csv files in Financial Data Exploration and Prediction to keep the data private
+
+Financial Data Exploration and Prediction/*.csv
+
+#Ignore .csv files in Forecasting Volatility Project to keep the data private
+
+Forecasting Volatility Project/*.csv
