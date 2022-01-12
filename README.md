@@ -1,2 +1,6 @@
 # Data-Science-ML-Projects
-This folder contains some of the projects I have done in the past year. In most of the projects I had to remove raw data and company names to maintain the privacy. 
+This folder contains some of the projects I have done in the past year. Both projects recieved positive feedback from the companies that I completed them for.
+1. In [Volatility Forecast Project](Forecasting%20Volatility%20Project/Forecasting%20Volatility%20Project.pdf) I explore modern volatility estimation and forecasting techniques. I visualize, preprocess and clean the data on prices of 6 stocks measured at 1-minute intervals over a year. I use resampling and realized volatility techniques to estimate the daily volatility for each of the stocks. I then employ and compare several predicting techniques to forecast volatility one month in advance. Finally I describe limitations and difficulties of forecasting so far in the future with limited data.
+2. In [Data Exploration and Prediction Project](Financial%20Data%20Exploration%20and%20Prediction/Financial%20Data%20Study.pdf) I study an anonymized financial data set containing 5 independent variables and 1 dependent variable. I visualize, clean and prepare the data. I then explore several predictive models. Due to the high random noise none of those models are very accurate but we discover several practically useful insights.
+
+In most of the projects I had to remove raw data and company names to maintain the privacy. 
